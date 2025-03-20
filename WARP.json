@@ -32,6 +32,34 @@
       "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
       "reserved": "qBI6",
       "mtu": 1330
+    },
+    {
+      "type": "wireguard",
+      "tag": "IRAN 2 🇮🇷 § 2",
+      "local_address": [
+        "172.16.0.2/24",
+        "2606:4700:110:819d:97c3:1a10:aada:18d4/128"
+      ],
+      "private_key": "oDd13/0TYNMlsegUtNqE1F6pSAtaOawPrvdSNKbEemc=",
+      "server": "162.159.192.30",
+      "server_port": 1018,
+      "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
+      "reserved": "d78R",
+      "mtu": 1330
+    },
+    {
+      "type": "wireguard",
+      "tag": "IRAN 3 🇮🇷 § 3",
+      "local_address": [
+        "172.16.0.2/24",
+        "2606:4700:110:819d:97c3:1a10:aada:18d4/128"
+      ],
+      "private_key": "WAKUtlf6Xdvl6Rn7vPCoq8jnaFRgL0eL8nwTPb2jqEY=",
+      "server": "162.159.192.33",
+      "server_port": 8742,
+      "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
+      "reserved": "2MRh",
+      "mtu": 1330
     }
   ]
 }
