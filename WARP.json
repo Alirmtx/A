@@ -16,7 +16,7 @@
       "fake_packets": "3",
       "fake_packets_size": "50-700",
       "fake_packets_delay": "45",
-      "fake_packets_mode": "m2"
+      "fake_packets_mode": "m1"
     },
     {
       "type": "wireguard",
