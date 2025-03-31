@@ -8,11 +8,15 @@
         "2606:4700:110:819d:97c3:1a10:aada:18d4/128"
       ],
       "private_key": "wGeF7ebODusxLWJ0FKHEw1nyoUN6gDSkgAkQunUaUlU=",
-      "server": "[2606:4700:d0::bdea:1adc:28d9:b58a]",
-      "server_port": 1070,
+      "server": "188.114.99.156",
+      "server_port": 7152,
       "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
       "reserved": "oBAG",
-      "mtu": 1330
+      "mtu": 1330,
+      "fake_packets": "3",
+      "fake_packets_size": "50-700",
+      "fake_packets_delay": "180",
+      "fake_packets_mode": "m4"
     },
     {
       "type": "wireguard",
@@ -23,8 +27,8 @@
         "2606:4700:110:87c2:e201:78bb:4145:2442/128"
       ],
       "private_key": "0Jcyj3Z/AalATsi/jyQgw+IevpHNbXO/GyKABg2/x0M=",
-      "server": "[2606:4700:d0::2acc:6aa3:ef72:3067]",
-      "server_port": 7103,
+      "server": "162.159.192.55",
+      "server_port": 8854,
       "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
       "reserved": "qBI6",
       "mtu": 1330
