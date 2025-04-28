@@ -13,9 +13,9 @@
       "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
       "reserved": "oBAG",
       "mtu": 1330,
-      "fake_packets": "3",
-      "fake_packets_size": "50-700",
-      "fake_packets_delay": "10",
+      "fake_packets": "4",
+      "fake_packets_size": "50-1000",
+      "fake_packets_delay": "0",
       "fake_packets_mode": "m4"
     },
     {
