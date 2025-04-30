@@ -15,7 +15,7 @@
       "mtu": 1330,
       "fake_packets": "4",
       "fake_packets_size": "50-1000",
-      "fake_packets_delay": "0",
+      "fake_packets_delay": "4-8",
       "fake_packets_mode": "m4"
     },
     {
