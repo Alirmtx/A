@@ -14,7 +14,7 @@
       "reserved": "oBAG",
       "mtu": 1330,
       "fake_packets": "1500-2000",
-      "fake_packets_size": "50-2000",
+      "fake_packets_size": "50-1000",
       "fake_packets_delay": "10-15",
       "fake_packets_mode": "m4"
     },
