@@ -8,8 +8,8 @@
         "2606:4700:110:819d:97c3:1a10:aada:18d4/128"
       ],
       "private_key": "wGeF7ebODusxLWJ0FKHEw1nyoUN6gDSkgAkQunUaUlU=",
-      "server": "188.114.97.214",
-      "server_port": 894,
+      "server": "188.114.97.14",
+      "server_port": 880,
       "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
       "reserved": "oBAG",
       "mtu": 1330,
