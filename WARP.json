@@ -8,12 +8,12 @@
         "2606:4700:110:819d:97c3:1a10:aada:18d4/128"
       ],
       "private_key": "wGeF7ebODusxLWJ0FKHEw1nyoUN6gDSkgAkQunUaUlU=",
-      "server": "188.114.98.106",
-      "server_port": 943,
+      "server": "162.159.195.72",
+      "server_port": 7559,
       "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
       "reserved": "oBAG",
       "mtu": 1330,
-      "fake_packets": "400-405",
+      "fake_packets": "95-100",
       "fake_packets_size": "80-950",
       "fake_packets_delay": "3-5",
       "fake_packets_mode": "m4"
